@@ -1,0 +1,15 @@
+# Compiled files
+*.class
+out/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
