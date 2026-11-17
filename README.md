@@ -1,6 +1,6 @@
 # java-learning
 
-Il mio percorso per diventare Junior Java Backend Developer.
+Obiettivo: lavorare come sviluppatore backend in Java.
 
 # Struttura cartelle
 01-java-basics
