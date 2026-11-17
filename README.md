@@ -1,6 +1,6 @@
 # java-learning
 
-Il mio percorso per diventare Junior Java Backend Developer.
+Percorso formativo da zero a Junior Java Backend Developer.
 
 # Struttura cartelle
 01-java-basics
